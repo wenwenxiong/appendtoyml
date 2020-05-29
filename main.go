@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/wenwenxiong/appendtoyml/cmd"
 	"os"
+
+	"github.com/wenwenxiong/appendtoyml/cmd"
 )
 
 func main() {
